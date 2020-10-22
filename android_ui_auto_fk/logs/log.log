@@ -1,0 +1,33 @@
+2020-10-10 21:04:26,853 - [handlelogs.py-->line:41] - INFO: debug
+2020-10-10 21:04:58,726 - [handlelogs.py-->line:41] - INFO: debug
+2020-10-15 21:11:48,484 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb install D:\python_project\funn_ui_auto_fk\app\cn.futu.trader_9.13.1002_1002.apk
+2020-10-15 21:12:40,279 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb install D:\python_project\funn_ui_auto_fk\app\cn.futu.trader_9.13.1002_1002.apk
+2020-10-15 21:12:46,098 - [RunSystemCmd.py-->line:23] - INFO: 执行 aapt d badging D:\python_project\funn_ui_auto_fk\app\cn.futu.trader_9.13.1002_1002.apk
+2020-10-15 21:14:37,319 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb install D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:14:46,437 - [RunSystemCmd.py-->line:29] - ERROR: 执行失败adb install D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:14:46,437 - [RunSystemCmd.py-->line:23] - INFO: 执行 aapt d badging D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:16:06,903 - [RunSystemCmd.py-->line:23] - INFO: 执行 aapt d badging D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:17:28,331 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb install D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:17:38,280 - [RunSystemCmd.py-->line:23] - INFO: 执行 aapt d badging D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:17:52,073 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb uninstallD:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:17:52,434 - [RunSystemCmd.py-->line:29] - ERROR: 执行失败adb uninstallD:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:19:15,406 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb uninstallD:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:19:16,035 - [RunSystemCmd.py-->line:30] - ERROR: 执行失败adb uninstallD:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-15 21:19:16,035 - [RunSystemCmd.py-->line:31] - ERROR: adb.exe: unknown command uninstallD:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+
+2020-10-16 09:23:17,747 - [RunSystemCmd.py-->line:23] - INFO: 执行 aapt d badging D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-16 09:23:18,557 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb uninstallcn.futu.trader
+2020-10-16 09:23:18,943 - [RunSystemCmd.py-->line:30] - ERROR: 执行失败adb uninstallcn.futu.trader
+2020-10-16 09:23:18,944 - [RunSystemCmd.py-->line:31] - ERROR: adb.exe: unknown command uninstallcn.futu.trader
+
+2020-10-16 09:24:31,076 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb install D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-16 09:24:40,654 - [RunSystemCmd.py-->line:23] - INFO: 执行 aapt d badging D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-16 09:24:41,212 - [RunSystemCmd.py-->line:23] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-16 21:22:35,305 - [RunSystemCmd.py-->line:25] - INFO: 执行 adb install D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-16 21:22:45,503 - [RunSystemCmd.py-->line:46] - ERROR: package_name = None
+2020-10-16 21:33:48,349 - [RunSystemCmd.py-->line:25] - INFO: 执行 adb install D:\python_project\funn_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-16 21:34:00,093 - [RunSystemCmd.py-->line:48] - ERROR: package_name = None
+2020-10-19 21:21:58,880 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-19 21:23:03,491 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-19 21:26:59,167 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-19 21:31:02,209 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
