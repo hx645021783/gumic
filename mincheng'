@@ -1,4 +1,0 @@
-[mincheng 2655cde] '2020-10-22
- 7 files changed, 669 insertions(+), 217 deletions(-)
- create mode 100644 android_ui_auto_fk/android/__pycache__/AndroidBase.cpython-37.pyc
- create mode 100644 android_ui_auto_fk/android/__pycache__/__init__.cpython-37.pyc
