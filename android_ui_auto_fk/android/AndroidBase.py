@@ -15,12 +15,13 @@ from common.readconfig import conf
 class AndroidBase(object):
     def __init__(self):
         self.app_path = self.get_app_path()
+        self.appium_url = conf.get('android', 'appiumUrl')
+        self.platfrom_name = conf.get('android', 'platformName')
         self.package_name = None
         self.activity_name = None
-        self.platfrom_name = conf.get('android', 'platformName')
         self.platfrom_version = None
         self.device_name = None
-
+        self.desired_caps = None
 
     def get_app_path(self):
         app_list = os.listdir(APPDIR)
@@ -45,7 +46,20 @@ class AndroidBase(object):
 
     def install_app(self):
         cmd = 'adb install ' + self.app_path
-        self.run_cmd(cmd)
+        try:
+            self.run_cmd(cmd)
+            log.info('app安装成功')
+        except:
+            log.info('检测到app已安装，正在尝试卸载重装')
+            try:
+                log.info('正在尝试卸载已有app')
+                if self.package_name is None:
+                    self.get_packageName_and_activityName()
+                self.uninstall_app()
+                log.info('重新安装app')
+                self.install_app()
+            except:
+                log.info('卸载失败')
 
     def uninstall_app(self):
         if self.package_name:
@@ -71,18 +85,37 @@ class AndroidBase(object):
 
     def get_platformVersion(self):
         cmd = 'adb shell getprop ro.build.version.release'
-        self.platfrom_version = self.run_cmd(cmd).strip('\n')
+        self.platfrom_version = self.run_cmd(cmd).strip('\n').strip('\r')
         return self.platfrom_version
 
     def get_deviceName(self):
         cmd = 'adb devices -l'
         result = self.run_cmd(cmd)
-        self.device_name = re.findall("model:(.+?) ", result)
+        self.device_name = re.findall("model:(.+?) ", result)[0]
         return self.device_name
 
-my = AndroidBase()
+    def get_desired_caps(self):
+        self.get_packageName_and_activityName()
+        self.get_platformVersion()
+        self.get_deviceName()
+        desired_caps = {
+            'platformName': self.platfrom_name,
+            'platformVersion': self.platfrom_version,
+            'deviceName': self.device_name,
+            'appPackage': self.package_name,
+            'appActivity': self.activity_name,
+            'unicodeKeyboard': True,
+            'resetKeyboard': True
+        }
+        self.desired_caps = desired_caps
+        return desired_caps
+
+android_base = AndroidBase()
+# android_base.get_packageName_and_activityName()
+# print(android_base.install_app())
+# android_base.get_desired_caps()
+# print(android_base.get_desired_caps())
 # my.install_app()
 # my.uninstall_app()
-print(my.get_deviceName())
-
+# print(my.get_deviceName())
 # print(AndroidBase().get_packageName_and_activityName())
