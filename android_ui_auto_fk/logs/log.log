@@ -31,3 +31,353 @@
 2020-10-19 21:23:03,491 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
 2020-10-19 21:26:59,167 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
 2020-10-19 21:31:02,209 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 16:54:14,746 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 16:54:15,506 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 16:54:15,897 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 16:56:02,092 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 16:56:02,906 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 16:56:02,960 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 16:58:00,805 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 16:58:01,637 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 16:58:01,693 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 16:58:36,716 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 16:58:37,393 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 16:58:37,451 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 16:58:37,827 - [AndroidBase.py-->line:32] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 16:58:46,983 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 16:58:47,558 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 16:58:47,925 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 17:16:11,240 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:16:11,811 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:16:12,183 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 17:16:50,162 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:16:50,814 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:16:50,866 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 17:21:18,216 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:21:18,781 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:21:19,157 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 17:21:57,987 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:21:58,545 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:21:58,902 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 17:23:17,635 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:23:18,205 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:23:18,566 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 17:24:01,583 - [AndroidBase.py-->line:32] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:24:02,247 - [AndroidBase.py-->line:32] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:24:02,300 - [AndroidBase.py-->line:32] - INFO: 执行 adb devices -l
+2020-10-22 17:27:52,771 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:27:53,457 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:27:53,817 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:35:05,390 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:35:06,046 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:35:06,420 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:36:11,167 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:36:11,867 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:36:12,258 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:36:49,732 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:36:50,389 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:36:50,438 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:38:15,200 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:38:15,871 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:38:15,929 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb shell getprop ro.build.version.release
+2020-10-22 17:38:15,929 - [AndroidBase.py-->line:42] - ERROR: error: no devices/emulators found
+
+2020-10-22 17:38:43,121 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:38:43,804 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:38:44,159 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb shell getprop ro.build.version.release
+2020-10-22 17:38:44,159 - [AndroidBase.py-->line:42] - ERROR: error: no devices/emulators found
+
+2020-10-22 17:39:04,623 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:39:05,274 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:39:05,321 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb shell getprop ro.build.version.release
+2020-10-22 17:39:05,321 - [AndroidBase.py-->line:42] - ERROR: error: no devices/emulators found
+
+2020-10-22 17:41:32,774 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:41:33,439 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:41:33,492 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:41:33,865 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:42:21,258 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:42:21,921 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:42:21,972 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:44:06,401 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:44:06,980 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:44:07,332 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:45:44,527 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:45:45,219 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:45:45,607 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:48:05,729 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:48:06,418 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:48:06,784 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:48:07,140 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 17:48:14,235 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 17:48:19,236 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 17:48:22,522 - [basetestcase.py-->line:30] - INFO: 延迟3秒
+2020-10-22 17:48:25,522 - [basetestcase.py-->line:32] - INFO: 关闭app
+2020-10-22 17:49:45,430 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:49:46,093 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:49:46,229 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:49:46,581 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 17:49:52,231 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 17:49:57,231 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 17:50:29,473 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:50:30,143 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:50:30,193 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:50:30,247 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 17:50:38,335 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 17:50:48,336 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 17:50:51,457 - [basetestcase.py-->line:30] - INFO: 延迟3秒
+2020-10-22 17:50:54,458 - [basetestcase.py-->line:32] - INFO: 关闭app
+2020-10-22 17:50:54,693 - [basetestcase.py-->line:34] - INFO: 延迟2秒
+2020-10-22 17:50:57,693 - [basetestcase.py-->line:36] - INFO: 启动app
+2020-10-22 17:51:00,130 - [basetestcase.py-->line:38] - INFO: 延迟3秒
+2020-10-22 17:51:03,130 - [basetestcase.py-->line:40] - INFO: 后台
+2020-10-22 17:55:07,961 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:55:08,438 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:55:08,487 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:55:08,530 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 17:55:43,996 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:55:44,687 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:55:44,735 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:55:44,778 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 17:55:51,281 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 17:56:01,282 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 17:56:04,410 - [basetestcase.py-->line:30] - INFO: 点击其他
+2020-10-22 17:56:56,672 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 17:56:56,943 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 17:56:57,332 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 17:56:57,695 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 17:57:04,652 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 17:57:14,652 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 17:57:17,794 - [basetestcase.py-->line:30] - INFO: 点击其他
+2020-10-22 18:38:00,610 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 18:38:01,271 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 18:38:01,673 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 18:38:01,724 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 18:38:09,064 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 18:38:19,066 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 18:38:25,196 - [basetestcase.py-->line:31] - INFO: 点击其他方式
+2020-10-22 18:42:07,640 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 18:42:08,298 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 18:42:08,387 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 18:42:08,765 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 18:42:17,041 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 18:42:27,042 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 18:42:30,168 - [basetestcase.py-->line:31] - INFO: 点击其他方式
+2020-10-22 18:58:49,077 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 18:58:49,712 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 18:58:50,143 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 18:58:50,502 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 18:58:58,305 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 18:59:08,306 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 18:59:14,444 - [basetestcase.py-->line:31] - INFO: 点击其他方式
+2020-10-22 18:59:30,271 - [basetestcase.py-->line:33] - INFO: 账号
+2020-10-22 19:01:48,329 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:01:49,000 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:01:49,065 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:01:49,416 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:01:57,400 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:02:07,401 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:02:13,546 - [basetestcase.py-->line:31] - INFO: 点击其他方式
+2020-10-22 19:10:16,830 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:10:17,630 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:10:17,731 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:10:17,776 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:10:32,351 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:10:42,363 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:10:48,877 - [basetestcase.py-->line:31] - INFO: 点击其他方式
+2020-10-22 19:43:27,796 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:43:28,606 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:43:28,702 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:43:28,753 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:43:37,494 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:43:47,508 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:43:53,829 - [basetestcase.py-->line:31] - INFO: 点击其他方式
+2020-10-22 19:44:31,373 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:44:31,900 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:44:31,972 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:44:32,401 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:44:40,817 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:44:50,834 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:45:20,625 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:45:21,446 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:45:21,540 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:45:21,964 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:45:29,380 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:45:39,385 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:45:45,897 - [basetestcase.py-->line:33] - INFO: 账号
+2020-10-22 19:47:01,720 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:47:02,535 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:47:03,006 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:47:03,424 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:47:10,795 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:47:20,809 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:47:27,123 - [basetestcase.py-->line:31] - INFO: 手动
+2020-10-22 19:47:37,134 - [basetestcase.py-->line:34] - INFO: 账号
+2020-10-22 19:48:03,946 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:48:04,543 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:48:04,639 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:48:04,700 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:48:12,478 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:48:22,487 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:48:28,788 - [basetestcase.py-->line:31] - INFO: 手动
+2020-10-22 19:48:38,793 - [basetestcase.py-->line:34] - INFO: 账号
+2020-10-22 19:49:36,917 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:49:37,577 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:49:37,899 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb shell getprop ro.build.version.release
+2020-10-22 19:49:37,899 - [AndroidBase.py-->line:42] - ERROR: error: protocol fault (couldn't read status): connection reset
+
+2020-10-22 19:50:07,125 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:50:07,780 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:50:07,863 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 19:50:08,222 - [basetestcase.py-->line:24] - INFO: 正在启动APP
+2020-10-22 19:50:15,260 - [basetestcase.py-->line:26] - INFO: 连接成功，延迟5秒
+2020-10-22 19:50:25,260 - [basetestcase.py-->line:28] - INFO: 点击同意
+2020-10-22 19:55:56,982 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 19:55:57,800 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 19:55:58,174 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 20:11:25,851 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:11:35,897 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:11:35,898 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:12:49,362 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:12:58,885 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:12:58,885 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:21:29,519 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:21:39,167 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:21:39,167 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:21:39,167 - [AndroidBase.py-->line:52] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:21:39,167 - [AndroidBase.py-->line:54] - INFO: 正在尝试卸载已有app
+2020-10-22 20:21:39,167 - [AndroidBase.py-->line:71] - ERROR: package_name = None
+2020-10-22 20:21:39,168 - [AndroidBase.py-->line:59] - INFO: 卸载失败
+2020-10-22 20:22:24,711 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:22:25,551 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:22:34,977 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:22:34,977 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:22:34,977 - [AndroidBase.py-->line:52] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:22:34,977 - [AndroidBase.py-->line:54] - INFO: 正在尝试卸载已有app
+2020-10-22 20:22:34,977 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 20:22:35,416 - [AndroidBase.py-->line:56] - INFO: 重新安装app
+2020-10-22 20:22:35,416 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:22:44,821 - [AndroidBase.py-->line:63] - INFO: app安装成功
+2020-10-22 20:22:44,821 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:24:11,298 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:24:12,123 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:24:21,271 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:24:21,271 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:24:21,271 - [AndroidBase.py-->line:52] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:24:21,271 - [AndroidBase.py-->line:54] - INFO: 正在尝试卸载已有app
+2020-10-22 20:24:21,271 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 20:24:21,757 - [AndroidBase.py-->line:56] - INFO: 重新安装app
+2020-10-22 20:24:21,757 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.20.1280_201022_435.apk
+2020-10-22 20:24:31,223 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:24:31,223 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:29:47,497 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:29:48,313 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:29:52,863 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:29:52,863 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_VERSION_DOWNGRADE]
+
+2020-10-22 20:29:52,863 - [AndroidBase.py-->line:52] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:29:52,863 - [AndroidBase.py-->line:54] - INFO: 正在尝试卸载已有app
+2020-10-22 20:29:52,863 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 20:29:53,291 - [AndroidBase.py-->line:56] - INFO: 重新安装app
+2020-10-22 20:29:53,291 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:30:03,522 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:30:03,522 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:34:25,068 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:34:25,638 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:34:28,679 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:34:29,528 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:34:36,906 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:34:42,371 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:34:42,371 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:34:42,371 - [AndroidBase.py-->line:52] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:34:42,371 - [AndroidBase.py-->line:54] - INFO: 正在尝试卸载已有app
+2020-10-22 20:34:42,371 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 20:34:42,787 - [AndroidBase.py-->line:56] - INFO: 重新安装app
+2020-10-22 20:34:42,787 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:34:51,484 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:34:51,484 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:37:06,512 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:37:15,796 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:37:45,373 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:37:59,369 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:38:08,221 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:38:35,704 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:38:36,267 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:38:45,717 - [AndroidBase.py-->line:61] - INFO: app安装成功
+2020-10-22 20:40:36,408 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:40:37,222 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:40:46,389 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:40:46,390 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:40:46,390 - [AndroidBase.py-->line:54] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:40:46,390 - [AndroidBase.py-->line:56] - INFO: 正在尝试卸载已有app
+2020-10-22 20:40:46,390 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 20:40:46,818 - [AndroidBase.py-->line:58] - INFO: 重新安装app
+2020-10-22 20:40:46,819 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:40:56,028 - [AndroidBase.py-->line:51] - INFO: app安装成功
+2020-10-22 20:42:37,394 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:42:38,208 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:42:47,290 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:42:47,290 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:42:47,290 - [AndroidBase.py-->line:53] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:42:47,290 - [AndroidBase.py-->line:55] - INFO: 正在尝试卸载已有app
+2020-10-22 20:42:47,291 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 20:42:47,736 - [AndroidBase.py-->line:57] - INFO: 重新安装app
+2020-10-22 20:42:47,736 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:42:56,990 - [AndroidBase.py-->line:51] - INFO: app安装成功
+2020-10-22 20:51:24,884 - [AndroidBase.py-->line:34] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:51:34,582 - [AndroidBase.py-->line:42] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:51:34,582 - [AndroidBase.py-->line:43] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:51:34,583 - [AndroidBase.py-->line:54] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:51:34,583 - [AndroidBase.py-->line:56] - INFO: 正在尝试卸载已有app
+2020-10-22 20:51:34,583 - [AndroidBase.py-->line:63] - INFO: 卸载失败
+2020-10-22 20:52:58,293 - [AndroidBase.py-->line:34] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:53:08,115 - [AndroidBase.py-->line:42] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 20:53:08,115 - [AndroidBase.py-->line:43] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 20:53:08,115 - [AndroidBase.py-->line:54] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 20:53:08,116 - [AndroidBase.py-->line:56] - INFO: 正在尝试卸载已有app
+2020-10-22 20:53:08,116 - [AndroidBase.py-->line:63] - INFO: 卸载失败
+2020-10-22 21:01:59,400 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:02:08,540 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:02:08,541 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 21:02:08,541 - [AndroidBase.py-->line:53] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 21:02:08,541 - [AndroidBase.py-->line:55] - INFO: 正在尝试卸载已有app
+2020-10-22 21:02:08,541 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:02:09,100 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 21:02:09,518 - [AndroidBase.py-->line:59] - INFO: 重新安装app
+2020-10-22 21:02:09,518 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:02:18,930 - [AndroidBase.py-->line:51] - INFO: app安装成功
+2020-10-22 21:02:18,931 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:02:19,493 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 21:02:19,873 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 21:02:28,828 - [basetestcase.py-->line:34] - INFO: 正在启动APP
+2020-10-22 21:02:36,429 - [basetestcase.py-->line:36] - INFO: 连接成功，延迟5秒
+2020-10-22 21:02:46,430 - [basetestcase.py-->line:38] - INFO: 点击同意
+2020-10-22 21:04:41,668 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:04:52,376 - [AndroidBase.py-->line:41] - ERROR: 执行失败adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:04:52,376 - [AndroidBase.py-->line:42] - ERROR: adb: failed to install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk: Failure [INSTALL_FAILED_ALREADY_EXISTS: Attempt to re-install cn.futu.trader without first uninstalling.]
+
+2020-10-22 21:04:52,376 - [AndroidBase.py-->line:53] - INFO: 检测到app已安装，正在尝试卸载重装
+2020-10-22 21:04:52,376 - [AndroidBase.py-->line:55] - INFO: 正在尝试卸载已有app
+2020-10-22 21:04:52,376 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:04:52,942 - [AndroidBase.py-->line:33] - INFO: 执行 adb uninstall cn.futu.trader
+2020-10-22 21:04:53,427 - [AndroidBase.py-->line:59] - INFO: 重新安装app
+2020-10-22 21:04:53,427 - [AndroidBase.py-->line:33] - INFO: 执行 adb install D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:05:02,821 - [AndroidBase.py-->line:51] - INFO: app安装成功
+2020-10-22 21:05:02,821 - [AndroidBase.py-->line:33] - INFO: 执行 aapt d badging D:\github_rep\gumic\android_ui_auto_fk\app\FTNN_10.18.1259.apk
+2020-10-22 21:05:03,382 - [AndroidBase.py-->line:33] - INFO: 执行 adb shell getprop ro.build.version.release
+2020-10-22 21:05:03,740 - [AndroidBase.py-->line:33] - INFO: 执行 adb devices -l
+2020-10-22 21:05:10,343 - [basetestcase.py-->line:34] - INFO: 正在启动APP
+2020-10-22 21:05:18,039 - [basetestcase.py-->line:36] - INFO: 连接成功，延迟5秒
+2020-10-22 21:05:28,040 - [basetestcase.py-->line:38] - INFO: 点击同意
+2020-10-22 21:05:34,174 - [basetestcase.py-->line:41] - INFO: 手动
